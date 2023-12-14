@@ -14,6 +14,7 @@ This project used both software and hardware.
    - Verilog Hardware Description Language
 2) Hardware
    - Digilent Nexys A7-100T Trainer Board
+   - USB-JTAG adapter for UART use
    - External monitor for VGA use
 
 ### Peripherals
