@@ -7,7 +7,7 @@ Team members: Brian Lam, Michael Tolmajian, Sarah Su, Michael Nava
 This microwave has most functions that can be found on any modern microwave. It includes 14 switches to adjust a maximum cook time of 63 minutes, five [buttons](https://github.com/ishwo0/Microwave-Project/blob/main/Code/Design%20Files%20(RTL)/top_buttonMaster.v) to cycle through the power/heat levels and start/stop the cooking, 
 7 Seven Segment Displays to display the current power and timer, and VGA and LEDs to display the cooking process.
 
-### Resources
+### Resources\
 This project used both software and hardware.
 1) Software
    - Xilinx Vivado Design Suite
